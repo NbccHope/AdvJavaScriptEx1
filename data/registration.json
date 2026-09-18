@@ -1,0 +1,23 @@
+[
+     {
+          "id": 1,
+          "firstName": "Dylan",
+          "lastName": "Gamble",
+          "isSenior": true,
+          "courseId": "A112"
+     },
+     {
+          "id": 2,
+          "firstName": "Anne",
+          "lastName": "Greene",
+          "isSenior": true,
+          "courseId": "A112"
+     },
+     {
+          "id": 5,
+          "firstName": "Jane",
+          "lastName": "Killam",
+          "isSenior": true,
+          "courseId": "A112"
+     }
+]
