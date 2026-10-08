@@ -1,3 +1,5 @@
+//File is a CommonJS module; it may be converted to an ES module.
+
 const fs = require("fs");
 /**
  * Name : Hope Abraham

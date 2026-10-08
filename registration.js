@@ -8,8 +8,8 @@ try {
     const students = JSON.parse(studentData);
 
     //Truthify
-    const hasStudent = !!students.length;
-    const hasStudents = students.length;
+    const hasStudent = !!students.length; // this would give a truth or false
+    const hasStudents = students.length; // this would give an integer
 
     console.log(hasStudent);
     console.log(hasStudents);
